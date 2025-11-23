@@ -1,6 +1,10 @@
 # FreeBSD-podman
 
+Installasi podman compose
+doas pkg install py311-podman-compose
+
 Refrence: <https://freebsdfoundation.org/blog/oci-containers-on-freebsd/>
+<https://docs.vultr.com/how-to-install-podman-on-freebsd-14-0>
 
 
 andre@FreeBSD:~ $ ifconfig
